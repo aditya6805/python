@@ -5,7 +5,7 @@ n1, n2 = 1, 10
 print(numlist(n1, n2))
 
 OR
-list=(x for x in range(1,11))
+list=[x for x in range(1,11)]
 print(list)
 
 ===
